@@ -1,2 +1,2 @@
-# Frontend-prctice-pages
+# Frontend-practice-pages
 Some simple frontend-practice pages
